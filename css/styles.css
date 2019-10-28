@@ -1,0 +1,24 @@
+.header {
+  color: slateblue;
+  background-color: midnightblue;
+}
+
+.new {
+  color: navy;
+  background-color: goldenrod;
+
+}
+
+.post {
+  color: whitesmoke;
+  background-color: indigo;
+}
+
+.me {
+  color: palevioletred;
+  background-color: navy;
+}
+
+a {
+  color: navy;
+}
