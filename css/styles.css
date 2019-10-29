@@ -14,6 +14,11 @@
   background-color: indigo;
 }
 
+.new, .post {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 .me {
   color: palevioletred;
   background-color: navy;
